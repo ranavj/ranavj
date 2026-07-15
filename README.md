@@ -8,7 +8,7 @@
 - 🧠 My learning style: connect every new AI concept to frontend fundamentals — *embeddings ≈ serialization, retrieval ≈ fetch, vector DB ≈ IndexedDB*
 - 💞️ Open to collaborating on **web apps & GenAI-powered products**
 - ⛰️ Beyond code: traveling & hiking
-- 📫 Reach me: **ranavj90@gmail.com**
+- 📫 Reach me: **ranavj90@gmail.com** · [LinkedIn](https://www.linkedin.com/in/vijay-rana-14a143a5/)
 
 ## 🛠️ Tech I work with
 
@@ -21,5 +21,8 @@
 Finishing the [RAG Mastery roadmap](https://github.com/ranavj/rag-mastery) (scratch → frameworks → full-stack RAG app), then building **AI agents** — ending with a portfolio project that merges frontend + RAG + agents.
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay%20Rana-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-rana-14a143a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-ranavj-181717?logo=github&logoColor=white)](https://github.com/ranavj)
 
 *Learning a little every day, shipping it publicly.* 🌱
